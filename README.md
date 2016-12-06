@@ -1,2 +1,2 @@
 # hello-world
-Settings up
+Settings up for now. 
